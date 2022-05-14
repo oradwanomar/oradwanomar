@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Radwan</h1>
+<h1 align="center">Hey 👋, I'm Omar Radwan</h1>
 <h3 align="center">A passionate Software Engineer, I'm an iOS & Flutter Mobile Application Developer</h3>
 <p><img align="center" src="https://miro.medium.com/max/1200/1*kW3vK1LpYOyG0JA12urVAQ.png" alt="oradwanomar" /></p>
 
