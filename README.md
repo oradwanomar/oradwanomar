@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **oradwan037@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RNTvTBuAKm8L2t2nejpYmoNs8scHTLFG/view?usp=sharing](https://drive.google.com/file/d/1RNTvTBuAKm8L2t2nejpYmoNs8scHTLFG/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1RNTvTBuAKm8L2t2nejpYmoNs8scHTLFG/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Funny :D**
 
