@@ -6,21 +6,21 @@
 
 <p align="left"> <a href="https://twitter.com/3omarahmed8" target="blank"><img src="https://img.shields.io/twitter/follow/3omarahmed8?logo=twitter&style=for-the-badge" alt="3omarahmed8" /></a> </p>
 
-- 🔭 I’m currently working on [Dokan](https://github.com/motoon-eg/dokan-store.git),[Instagram](https://github.com/oradwanomar/Instagram.git), [LeetCode-Problems](https://github.com/oradwanomar/LeetCode-Problems.git)
+- 🔭 I’m currently working on [Dokan](https://github.com/motoon-eg/dokan-store.git),[Vjudge-Journey]([https://github.com/oradwanomar/Instagram.git](https://github.com/oradwanomar/Vjudge-Journey)), [LeetCode-Problems](https://github.com/oradwanomar/LeetCode-Problems.git), [SwiftUI]([https://github.com/oradwanomar/LeetCode-Problems.git](https://github.com/oradwanomar/Learing-SwiftUI))
 
 - 🌱 I’m currently learning **UIKit , SwiftUI , Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/oradwanomar](https://github.com/oradwanomar)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/omarradwan1/](https://www.linkedin.com/in/omarradwan1/)
+- 📝 I regularly write articles on [My LinkedIn](https://www.linkedin.com/in/omarradwan1/), [Medium](https://medium.com/@oradwan037)
 
-- 💬 Ask me about **IOS , Flutter**
+- 💬 Ask me about **IOS , Software Engineer**
 
 - 📫 How to reach me **oradwan037@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1RNTvTBuAKm8L2t2nejpYmoNs8scHTLFG/view?usp=sharing)
+- 📄 Know about my experiences [Resume - CV]([https://drive.google.com/file/d/1RNTvTBuAKm8L2t2nejpYmoNs8scHTLFG/view?usp=sharing](https://drive.google.com/file/d/1zzPVLLhjfEWOUNi4nsTfQze2vZOI_YO_/view?usp=sharing))
 
-- ⚡ Fun fact **I'm Funny :D**
+- ⚡ Fun fact **I'm Funny :D and love to play with modern technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
