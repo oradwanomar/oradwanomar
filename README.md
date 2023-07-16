@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Hey, I'm Omar Radwan 📱👨🏻‍💻</h1>
+<h3 align="center"><h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Omar Radwan 📱👨🏻‍💻</h1></h3>
 <h3 align="center">A passionate iOS Software Engineer 🍎</h3>
 <p><img align="center" src="https://miro.medium.com/max/1200/1*kW3vK1LpYOyG0JA12urVAQ.png" alt="oradwanomar" /></p>
 
