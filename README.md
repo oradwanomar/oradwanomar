@@ -18,7 +18,7 @@
 ## About me 🤔:
 - 🔭 I’m currently working on [Dokan](https://github.com/motoon-eg/dokan-store.git),[ Vjudge-Journey](https://github.com/oradwanomar/Vjudge-Journey), [LeetCode-Problems](https://github.com/oradwanomar/LeetCode-Problems.git), [SwiftUI](https://github.com/oradwanomar/Learing-SwiftUI)
 
-- 🌱 I’m currently learning **UIKit , SwiftUI , Flutter**
+- 🌱 I’m currently have a great knowledge with **UIKit , SwiftUI , Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/oradwanomar](https://github.com/oradwanomar)
 
