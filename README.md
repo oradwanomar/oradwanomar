@@ -16,7 +16,6 @@
 - 🚦 Exploring some iOS frameworks(UIKit, SwiftUI, Core Data, Combine, Core Location, ...)
   
 ## About me 🤔:
-- 🔭 I’m currently working on [Dokan](https://github.com/motoon-eg/dokan-store.git),[ Vjudge-Journey](https://github.com/oradwanomar/Vjudge-Journey), [LeetCode-Problems](https://github.com/oradwanomar/LeetCode-Problems.git), [SwiftUI](https://github.com/oradwanomar/Learing-SwiftUI)
 
 - 👨‍💻 All of my projects are available at [https://github.com/oradwanomar](https://github.com/oradwanomar)
 
